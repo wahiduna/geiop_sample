@@ -1,0 +1,13 @@
+{
+    "name": "kangwahid/geoip",
+    "description": "Simple GeoIP to search country",
+    "authors": [
+        {
+            "name": "Wahid Romdhoni",
+            "email": "wahidromdhs@gmail.com"
+        }
+    ],
+    "require": {
+        "geoip/geoip": "~1.16"
+    }
+}
